@@ -36,6 +36,13 @@
     宣告 adapter，繼承 target、adaptee，利用 adaptee 擴充方法 override 原 target 方法
 
 ## Bridge 橋接模式
+	形狀、顏色
+    形狀包含顏色
+
+## Composite 組合模式
+    層級結構管理
+    樹狀結構
+    Set parent / Get Parent
 
 
 ---
