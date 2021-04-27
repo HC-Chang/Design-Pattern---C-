@@ -38,12 +38,17 @@
 ## Bridge 橋接模式
 	形狀、顏色
     形狀包含顏色
+	優先考慮 合成 / 聚合 原則
 
 ## Composite 組合模式
     層級結構管理
     樹狀結構
     Set parent / Get Parent
 
+## Decorator 裝飾模式
+    封裝器(通知器)
+    擴展
+    層次結構
 
 ---
 
